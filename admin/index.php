@@ -142,7 +142,7 @@ if(!isset($_SESSION['UserID'])) {
                     $row3 = mysqli_fetch_array($sql3);
                     $totalPost = $row3['totalpost'];
             ?>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-3">
                 <div class="card space-between-card">
                     <img src="gambar/<?= $data['LokasiFile'] ?>" alt="" class="card-img-top">
                     <div class="card-header">
