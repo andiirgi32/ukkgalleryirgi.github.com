@@ -96,7 +96,7 @@ if(!isset($_SESSION['UserID'])) {
         </div>
     </nav>
 
-    <div class="container container-margin bg-light py-3 mb-5">
+    <div class="container container-margin bg-light py-3 mb-5" style="overflow-x: auto;">
         <h6 class="display-6 fw-bold">Album</h6>
         <a href="tambah_album.php" class="btn btn-primary mb-2">Tambah</a>
         <table class="table table-striped table-hover">
