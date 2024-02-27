@@ -1,2 +1,2 @@
 # ukkgalleryirgi.github.com
-Aplikasi berbasis web yang diberi nama gallert
+Aplikasi berbasis web yang diberi nama gallery
